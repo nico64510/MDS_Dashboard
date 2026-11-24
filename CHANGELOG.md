@@ -5,6 +5,10 @@ Les versions suivent le format **MAJEUR.MINEUR.CORRECTIF** :
 - **mineur** (2.**1**.0) : nouvelle fonction ;
 - **majeur** (**3**.0.0) : changement important (par exemple une mise à jour à faire par câble USB, par MDS Workshop).
 
+## 2.1.0 — 24 novembre 2026
+
+- **Page de réglages** : l'onglet Mise à jour affiche l'identifiant de l'écran. Communiquez-le à MDS Workshop en cas de demande d'assistance.
+
 ## 2.0.0 — 24 novembre 2026
 
 Première version de la série 2, installée en atelier sur tous les écrans livrés.
